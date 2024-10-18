@@ -94,7 +94,7 @@ a{
     font-size: 7rem;
     color: rgb(231,231,231);
 
-    bottom: -9.4%;
+    bottom: -9.1%;
     left: 0%;
     font-weight: bold;
     transition: all 3s;
@@ -450,7 +450,7 @@ box-shadow: 0px 0px 40px #1f1f1f;
 }
 
 #project1{
-    background-image: url(./images/projects/diabetes1.png);
+    background-image: url(./images/projects/trendy.PNG);
     width: 90%;
 }
 #project2{
@@ -464,14 +464,10 @@ box-shadow: 0px 0px 40px #1f1f1f;
     width: 90%;
 }
 #project4{
-    background-image: url(./images/projects/chatbot.png);
-    margin-left: 320px;
+    background-image: url(./images/projects/Tourism.png);
+    margin-left: 300px;
     width:85%;
     height:550px;
-}
-#project5{
-    background-image: url(./images/projects/Tourism.png);
-    width: 90%;
 }
 
 .skills-container{
